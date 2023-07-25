@@ -1,15 +1,4 @@
-/* function imprimeArrays() {
-const apenasNumeros = [4, 1, 90, 200, 74, 7, 43]
-const apenasStrings = ["Zico", "Adílio", "Nunes", "Leandro", "Júnior"]
-const todosOsTipos = ["Adriano", "Petkovic", 10, 43, true, false]
-
-console.log(apenasNumeros.length)
-console.log(apenasStrings.length)
-console.log(todosOsTipos.length)
-    
-}
-
-imprimeArrays() */
+//Exercício 2
 
 function imprimePosicao() {
 const apenasNumeros = [4, 1, 90, 200, 74, 7, 43]
